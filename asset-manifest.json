@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.js": "/killergram/static/js/main.ad34a3d2.chunk.js",
+    "main.js.map": "/killergram/static/js/main.ad34a3d2.chunk.js.map",
+    "runtime-main.js": "/killergram/static/js/runtime-main.4e654c7a.js",
+    "runtime-main.js.map": "/killergram/static/js/runtime-main.4e654c7a.js.map",
+    "static/js/2.7ee9c019.chunk.js": "/killergram/static/js/2.7ee9c019.chunk.js",
+    "static/js/2.7ee9c019.chunk.js.map": "/killergram/static/js/2.7ee9c019.chunk.js.map",
+    "static/js/3.15b3a39f.chunk.js": "/killergram/static/js/3.15b3a39f.chunk.js",
+    "static/js/3.15b3a39f.chunk.js.map": "/killergram/static/js/3.15b3a39f.chunk.js.map",
+    "index.html": "/killergram/index.html",
+    "static/js/2.7ee9c019.chunk.js.LICENSE.txt": "/killergram/static/js/2.7ee9c019.chunk.js.LICENSE.txt",
+    "static/media/logo.de32632c.svg": "/killergram/static/media/logo.de32632c.svg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.4e654c7a.js",
+    "static/js/2.7ee9c019.chunk.js",
+    "static/js/main.ad34a3d2.chunk.js"
+  ]
+}
